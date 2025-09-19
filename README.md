@@ -90,3 +90,4 @@ flowchart TD
 ## Для вайба
 
 ![Tagging](https://static.vecteezy.com/ti/gratis-vektor/p1/17582315-graffiti-kunsthintergrund-mit-scribble-throw-up-und-tagging-im-handgezeichneten-stil-street-art-graffiti-urban-theme-fur-drucke-muster-banner-und-textilien-imformat-vektor.jpg)
+![Tagging](https://static.vecteezy.com/ti/gratis-vektor/p1/17582315-graffiti-kunsthintergrund-mit-scribble-throw-up-und-tagging-im-handgezeichneten-stil-street-art-graffiti-urban-theme-fur-drucke-muster-banner-und-textilien-imformat-vektor.jpg)
