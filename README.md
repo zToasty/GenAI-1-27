@@ -79,7 +79,7 @@ python tagger.py --file test_text.txt
 
 ```mermaid
 flowchart TD
-    A[Пользователь] -->|--text "или" --file| B[Скрипт tagger.py]
+    A[Пользователь] -->|"--text или --file"| B[Скрипт tagger.py]
     B --> C[TagGenerator]
     C --> D[Генерация тегов моделью Qwen2-VL]
     D --> E[Сырые теги]
